@@ -1,0 +1,202 @@
+[
+  {
+    "query": "What is machine learning?",
+    "passage": "Machine learning is a method of data analysis that automates analytical model building using algorithms that iteratively learn from data.",
+    "label": 1
+  },
+  {
+    "query": "What is machine learning?",
+    "passage": "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+    "label": 0
+  },
+  {
+    "query": "What is machine learning? (variation 1)",
+    "passage": "Machine learning is a method of data analysis that automates analytical model building using algorithms that iteratively learn from data.",
+    "label": 1
+  },
+  {
+    "query": "What is machine learning? (variation 1)",
+    "passage": "Swimming is a sport involving movement through water using arms and legs.",
+    "label": 0
+  },
+  {
+    "query": "What is machine learning? (variation 2)",
+    "passage": "Machine learning is a method of data analysis that automates analytical model building using algorithms that iteratively learn from data.",
+    "label": 1
+  },
+  {
+    "query": "What is machine learning? (variation 2)",
+    "passage": "Music theory is the study of the practices and possibilities of music composition and performance.",
+    "label": 0
+  },
+  {
+    "query": "What is machine learning? (variation 3)",
+    "passage": "Machine learning is a method of data analysis that automates analytical model building using algorithms that iteratively learn from data.",
+    "label": 1
+  },
+  {
+    "query": "What is machine learning? (variation 3)",
+    "passage": "Music theory is the study of the practices and possibilities of music composition and performance.",
+    "label": 0
+  },
+  {
+    "query": "How does neural network work?",
+    "passage": "Neural networks are computing systems inspired by biological neural networks. They learn to perform tasks by considering examples.",
+    "label": 1
+  },
+  {
+    "query": "How does neural network work?",
+    "passage": "Gardening involves growing and cultivating plants as part of horticulture.",
+    "label": 0
+  },
+  {
+    "query": "How does neural network work? (variation 1)",
+    "passage": "Neural networks are computing systems inspired by biological neural networks. They learn to perform tasks by considering examples.",
+    "label": 1
+  },
+  {
+    "query": "How does neural network work? (variation 1)",
+    "passage": "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+    "label": 0
+  },
+  {
+    "query": "How does neural network work? (variation 2)",
+    "passage": "Neural networks are computing systems inspired by biological neural networks. They learn to perform tasks by considering examples.",
+    "label": 1
+  },
+  {
+    "query": "How does neural network work? (variation 2)",
+    "passage": "Music theory is the study of the practices and possibilities of music composition and performance.",
+    "label": 0
+  },
+  {
+    "query": "How does neural network work? (variation 3)",
+    "passage": "Neural networks are computing systems inspired by biological neural networks. They learn to perform tasks by considering examples.",
+    "label": 1
+  },
+  {
+    "query": "How does neural network work? (variation 3)",
+    "passage": "Photography is the art and science of creating durable images by recording light.",
+    "label": 0
+  },
+  {
+    "query": "What is deep learning?",
+    "passage": "Deep learning is part of machine learning methods based on artificial neural networks with representation learning.",
+    "label": 1
+  },
+  {
+    "query": "What is deep learning?",
+    "passage": "Swimming is a sport involving movement through water using arms and legs.",
+    "label": 0
+  },
+  {
+    "query": "What is deep learning? (variation 1)",
+    "passage": "Deep learning is part of machine learning methods based on artificial neural networks with representation learning.",
+    "label": 1
+  },
+  {
+    "query": "What is deep learning? (variation 1)",
+    "passage": "Photography is the art and science of creating durable images by recording light.",
+    "label": 0
+  },
+  {
+    "query": "What is deep learning? (variation 2)",
+    "passage": "Deep learning is part of machine learning methods based on artificial neural networks with representation learning.",
+    "label": 1
+  },
+  {
+    "query": "What is deep learning? (variation 2)",
+    "passage": "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+    "label": 0
+  },
+  {
+    "query": "What is deep learning? (variation 3)",
+    "passage": "Deep learning is part of machine learning methods based on artificial neural networks with representation learning.",
+    "label": 1
+  },
+  {
+    "query": "What is deep learning? (variation 3)",
+    "passage": "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+    "label": 0
+  },
+  {
+    "query": "Explain natural language processing",
+    "passage": "Natural language processing is a subfield of AI that helps computers understand, interpret and manipulate human language.",
+    "label": 1
+  },
+  {
+    "query": "Explain natural language processing",
+    "passage": "Photography is the art and science of creating durable images by recording light.",
+    "label": 0
+  },
+  {
+    "query": "Explain natural language processing (variation 1)",
+    "passage": "Natural language processing is a subfield of AI that helps computers understand, interpret and manipulate human language.",
+    "label": 1
+  },
+  {
+    "query": "Explain natural language processing (variation 1)",
+    "passage": "Music theory is the study of the practices and possibilities of music composition and performance.",
+    "label": 0
+  },
+  {
+    "query": "Explain natural language processing (variation 2)",
+    "passage": "Natural language processing is a subfield of AI that helps computers understand, interpret and manipulate human language.",
+    "label": 1
+  },
+  {
+    "query": "Explain natural language processing (variation 2)",
+    "passage": "Swimming is a sport involving movement through water using arms and legs.",
+    "label": 0
+  },
+  {
+    "query": "Explain natural language processing (variation 3)",
+    "passage": "Natural language processing is a subfield of AI that helps computers understand, interpret and manipulate human language.",
+    "label": 1
+  },
+  {
+    "query": "Explain natural language processing (variation 3)",
+    "passage": "Music theory is the study of the practices and possibilities of music composition and performance.",
+    "label": 0
+  },
+  {
+    "query": "What is computer vision?",
+    "passage": "Computer vision is an interdisciplinary field that deals with how computers can gain understanding from digital images or videos.",
+    "label": 1
+  },
+  {
+    "query": "What is computer vision?",
+    "passage": "Music theory is the study of the practices and possibilities of music composition and performance.",
+    "label": 0
+  },
+  {
+    "query": "What is computer vision? (variation 1)",
+    "passage": "Computer vision is an interdisciplinary field that deals with how computers can gain understanding from digital images or videos.",
+    "label": 1
+  },
+  {
+    "query": "What is computer vision? (variation 1)",
+    "passage": "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+    "label": 0
+  },
+  {
+    "query": "What is computer vision? (variation 2)",
+    "passage": "Computer vision is an interdisciplinary field that deals with how computers can gain understanding from digital images or videos.",
+    "label": 1
+  },
+  {
+    "query": "What is computer vision? (variation 2)",
+    "passage": "Swimming is a sport involving movement through water using arms and legs.",
+    "label": 0
+  },
+  {
+    "query": "What is computer vision? (variation 3)",
+    "passage": "Computer vision is an interdisciplinary field that deals with how computers can gain understanding from digital images or videos.",
+    "label": 1
+  },
+  {
+    "query": "What is computer vision? (variation 3)",
+    "passage": "Swimming is a sport involving movement through water using arms and legs.",
+    "label": 0
+  }
+]

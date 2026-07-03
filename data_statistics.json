@@ -1,0 +1,13 @@
+{
+  "dataset_type": "sample",
+  "total_samples": 20,
+  "embedding_examples": 40,
+  "reranker_examples": 40,
+  "evaluation_queries": 20,
+  "avg_candidates_per_query": 5.0,
+  "files_created": [
+    "embedding_training_data.json",
+    "reranker_training_data.json",
+    "evaluation_data.json"
+  ]
+}

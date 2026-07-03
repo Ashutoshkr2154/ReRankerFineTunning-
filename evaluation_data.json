@@ -1,0 +1,308 @@
+{
+  "queries": [
+    "What is computer vision?",
+    "Explain natural language processing (variation 2)",
+    "Explain natural language processing (variation 1)",
+    "Explain natural language processing (variation 3)",
+    "What is computer vision? (variation 2)",
+    "How does neural network work? (variation 2)",
+    "What is computer vision? (variation 3)",
+    "What is machine learning? (variation 3)",
+    "What is machine learning? (variation 2)",
+    "What is deep learning? (variation 3)",
+    "How does neural network work?",
+    "What is deep learning?",
+    "What is deep learning? (variation 1)",
+    "How does neural network work? (variation 3)",
+    "What is computer vision? (variation 1)",
+    "What is machine learning?",
+    "How does neural network work? (variation 1)",
+    "What is machine learning? (variation 1)",
+    "Explain natural language processing",
+    "What is deep learning? (variation 2)"
+  ],
+  "candidates": [
+    [
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Swimming is a sport involving movement through water using arms and legs.",
+      "Swimming is a sport involving movement through water using arms and legs.",
+      "Computer vision is an interdisciplinary field that deals with how computers can gain understanding from digital images or videos.",
+      "Swimming is a sport involving movement through water using arms and legs."
+    ],
+    [
+      "Natural language processing is a subfield of AI that helps computers understand, interpret and manipulate human language.",
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Gardening involves growing and cultivating plants as part of horticulture.",
+      "Swimming is a sport involving movement through water using arms and legs."
+    ],
+    [
+      "Swimming is a sport involving movement through water using arms and legs.",
+      "Photography is the art and science of creating durable images by recording light.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Swimming is a sport involving movement through water using arms and legs.",
+      "Natural language processing is a subfield of AI that helps computers understand, interpret and manipulate human language."
+    ],
+    [
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Swimming is a sport involving movement through water using arms and legs.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Natural language processing is a subfield of AI that helps computers understand, interpret and manipulate human language.",
+      "Music theory is the study of the practices and possibilities of music composition and performance."
+    ],
+    [
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Swimming is a sport involving movement through water using arms and legs.",
+      "Computer vision is an interdisciplinary field that deals with how computers can gain understanding from digital images or videos."
+    ],
+    [
+      "Neural networks are computing systems inspired by biological neural networks. They learn to perform tasks by considering examples.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Photography is the art and science of creating durable images by recording light."
+    ],
+    [
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Swimming is a sport involving movement through water using arms and legs.",
+      "Computer vision is an interdisciplinary field that deals with how computers can gain understanding from digital images or videos.",
+      "Music theory is the study of the practices and possibilities of music composition and performance."
+    ],
+    [
+      "Machine learning is a method of data analysis that automates analytical model building using algorithms that iteratively learn from data.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Swimming is a sport involving movement through water using arms and legs."
+    ],
+    [
+      "Machine learning is a method of data analysis that automates analytical model building using algorithms that iteratively learn from data.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Music theory is the study of the practices and possibilities of music composition and performance."
+    ],
+    [
+      "Deep learning is part of machine learning methods based on artificial neural networks with representation learning.",
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Swimming is a sport involving movement through water using arms and legs.",
+      "Music theory is the study of the practices and possibilities of music composition and performance."
+    ],
+    [
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Swimming is a sport involving movement through water using arms and legs.",
+      "Neural networks are computing systems inspired by biological neural networks. They learn to perform tasks by considering examples.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Swimming is a sport involving movement through water using arms and legs."
+    ],
+    [
+      "Photography is the art and science of creating durable images by recording light.",
+      "Deep learning is part of machine learning methods based on artificial neural networks with representation learning.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Photography is the art and science of creating durable images by recording light."
+    ],
+    [
+      "Swimming is a sport involving movement through water using arms and legs.",
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Deep learning is part of machine learning methods based on artificial neural networks with representation learning.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Music theory is the study of the practices and possibilities of music composition and performance."
+    ],
+    [
+      "Neural networks are computing systems inspired by biological neural networks. They learn to perform tasks by considering examples.",
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Swimming is a sport involving movement through water using arms and legs.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Photography is the art and science of creating durable images by recording light."
+    ],
+    [
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Swimming is a sport involving movement through water using arms and legs.",
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Computer vision is an interdisciplinary field that deals with how computers can gain understanding from digital images or videos."
+    ],
+    [
+      "Machine learning is a method of data analysis that automates analytical model building using algorithms that iteratively learn from data.",
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Photography is the art and science of creating durable images by recording light.",
+      "Music theory is the study of the practices and possibilities of music composition and performance."
+    ],
+    [
+      "Swimming is a sport involving movement through water using arms and legs.",
+      "Neural networks are computing systems inspired by biological neural networks. They learn to perform tasks by considering examples.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Music theory is the study of the practices and possibilities of music composition and performance."
+    ],
+    [
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Machine learning is a method of data analysis that automates analytical model building using algorithms that iteratively learn from data.",
+      "Swimming is a sport involving movement through water using arms and legs.",
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Cooking is the practice of preparing food by combining ingredients and applying heat."
+    ],
+    [
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Swimming is a sport involving movement through water using arms and legs.",
+      "Natural language processing is a subfield of AI that helps computers understand, interpret and manipulate human language."
+    ],
+    [
+      "Music theory is the study of the practices and possibilities of music composition and performance.",
+      "Swimming is a sport involving movement through water using arms and legs.",
+      "Cooking is the practice of preparing food by combining ingredients and applying heat.",
+      "Photography is the art and science of creating durable images by recording light.",
+      "Deep learning is part of machine learning methods based on artificial neural networks with representation learning."
+    ]
+  ],
+  "relevance": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ]
+}

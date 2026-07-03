@@ -1,0 +1,102 @@
+[
+  {
+    "query": "What is machine learning?",
+    "positive": "Machine learning is a method of data analysis that automates analytical model building using algorithms that iteratively learn from data.",
+    "negative": "Cooking is the practice of preparing food by combining ingredients and applying heat."
+  },
+  {
+    "query": "What is machine learning? (variation 1)",
+    "positive": "Machine learning is a method of data analysis that automates analytical model building using algorithms that iteratively learn from data.",
+    "negative": "Swimming is a sport involving movement through water using arms and legs."
+  },
+  {
+    "query": "What is machine learning? (variation 2)",
+    "positive": "Machine learning is a method of data analysis that automates analytical model building using algorithms that iteratively learn from data.",
+    "negative": "Music theory is the study of the practices and possibilities of music composition and performance."
+  },
+  {
+    "query": "What is machine learning? (variation 3)",
+    "positive": "Machine learning is a method of data analysis that automates analytical model building using algorithms that iteratively learn from data.",
+    "negative": "Music theory is the study of the practices and possibilities of music composition and performance."
+  },
+  {
+    "query": "How does neural network work?",
+    "positive": "Neural networks are computing systems inspired by biological neural networks. They learn to perform tasks by considering examples.",
+    "negative": "Gardening involves growing and cultivating plants as part of horticulture."
+  },
+  {
+    "query": "How does neural network work? (variation 1)",
+    "positive": "Neural networks are computing systems inspired by biological neural networks. They learn to perform tasks by considering examples.",
+    "negative": "Cooking is the practice of preparing food by combining ingredients and applying heat."
+  },
+  {
+    "query": "How does neural network work? (variation 2)",
+    "positive": "Neural networks are computing systems inspired by biological neural networks. They learn to perform tasks by considering examples.",
+    "negative": "Music theory is the study of the practices and possibilities of music composition and performance."
+  },
+  {
+    "query": "How does neural network work? (variation 3)",
+    "positive": "Neural networks are computing systems inspired by biological neural networks. They learn to perform tasks by considering examples.",
+    "negative": "Photography is the art and science of creating durable images by recording light."
+  },
+  {
+    "query": "What is deep learning?",
+    "positive": "Deep learning is part of machine learning methods based on artificial neural networks with representation learning.",
+    "negative": "Swimming is a sport involving movement through water using arms and legs."
+  },
+  {
+    "query": "What is deep learning? (variation 1)",
+    "positive": "Deep learning is part of machine learning methods based on artificial neural networks with representation learning.",
+    "negative": "Photography is the art and science of creating durable images by recording light."
+  },
+  {
+    "query": "What is deep learning? (variation 2)",
+    "positive": "Deep learning is part of machine learning methods based on artificial neural networks with representation learning.",
+    "negative": "Cooking is the practice of preparing food by combining ingredients and applying heat."
+  },
+  {
+    "query": "What is deep learning? (variation 3)",
+    "positive": "Deep learning is part of machine learning methods based on artificial neural networks with representation learning.",
+    "negative": "Cooking is the practice of preparing food by combining ingredients and applying heat."
+  },
+  {
+    "query": "Explain natural language processing",
+    "positive": "Natural language processing is a subfield of AI that helps computers understand, interpret and manipulate human language.",
+    "negative": "Photography is the art and science of creating durable images by recording light."
+  },
+  {
+    "query": "Explain natural language processing (variation 1)",
+    "positive": "Natural language processing is a subfield of AI that helps computers understand, interpret and manipulate human language.",
+    "negative": "Music theory is the study of the practices and possibilities of music composition and performance."
+  },
+  {
+    "query": "Explain natural language processing (variation 2)",
+    "positive": "Natural language processing is a subfield of AI that helps computers understand, interpret and manipulate human language.",
+    "negative": "Swimming is a sport involving movement through water using arms and legs."
+  },
+  {
+    "query": "Explain natural language processing (variation 3)",
+    "positive": "Natural language processing is a subfield of AI that helps computers understand, interpret and manipulate human language.",
+    "negative": "Music theory is the study of the practices and possibilities of music composition and performance."
+  },
+  {
+    "query": "What is computer vision?",
+    "positive": "Computer vision is an interdisciplinary field that deals with how computers can gain understanding from digital images or videos.",
+    "negative": "Music theory is the study of the practices and possibilities of music composition and performance."
+  },
+  {
+    "query": "What is computer vision? (variation 1)",
+    "positive": "Computer vision is an interdisciplinary field that deals with how computers can gain understanding from digital images or videos.",
+    "negative": "Cooking is the practice of preparing food by combining ingredients and applying heat."
+  },
+  {
+    "query": "What is computer vision? (variation 2)",
+    "positive": "Computer vision is an interdisciplinary field that deals with how computers can gain understanding from digital images or videos.",
+    "negative": "Swimming is a sport involving movement through water using arms and legs."
+  },
+  {
+    "query": "What is computer vision? (variation 3)",
+    "positive": "Computer vision is an interdisciplinary field that deals with how computers can gain understanding from digital images or videos.",
+    "negative": "Swimming is a sport involving movement through water using arms and legs."
+  }
+]
